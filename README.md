@@ -26,6 +26,7 @@
 ## Джерела
 - [OpenSSH Security log](https://www.openssh.com/security.html)
 - [Medium. CVE-2023–38408 (OpenSSH Vulnerability to RCE](https://medium.com/@mane_csit2075/cve-2023-38408-openssh-vulnerability-to-rce-9e756a0369fd)
+- [Medium. OpenSSH CVE-2018–15473 User Enumeration Vulnerability](https://medium.com/@Dhamuharker/openssh-cve-2018-15473-user-enumeration-vulnerability-1ad8c7b6c66f)
 - [CyRisk. Mitigation Instructions for CVE-2020-15778](https://cyrisk.com/security/mitigation-instructions-for-cve-2020-15778)
 - [SCP client multiply vulnerabilities](https://sintonen.fi/advisories/scp-client-multiple-vulnerabilities.txt)
 - [SSH-MITM - ssh audits made simple](https://docs.ssh-mitm.at/index.html)
