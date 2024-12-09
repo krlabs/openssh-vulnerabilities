@@ -74,3 +74,4 @@
 - [Terrapin Attack](https://terrapin-attack.com)
 - [Mitigating the SSH Terrapin Attack](https://www.nsoftware.com/kb/articles/terrapin)
 - [Terrapin Vulnerability SCanner](https://github.com/RUB-NDS/Terrapin-Scanner)
+- [OpenSSH Security Advisory: gcmrekey.adv](https://www.openssh.com/txt/gcmrekey.adv)
