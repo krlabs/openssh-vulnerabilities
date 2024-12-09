@@ -66,6 +66,7 @@
 - [StackExchange. Infosecurity. Why OpenSSH deprecated DSA keys](https://security.stackexchange.com/questions/112802/why-openssh-deprecated-dsa-keys)
 - [StackExchange. Infosecurity. Should DSA keys be considered deprecated?](https://security.stackexchange.com/questions/98441/should-dsa-keys-be-considered-deprecated)
 - [Weak Diffie-Hellman and the Logjam Attack](https://weakdh.org)
+- [SSH Hacking: How to Exploit Port 22 Vulnerabilities for Penetration Testing](https://medium.verylazytech.com/ssh-hacking-how-to-exploit-port-22-vulnerabilities-for-penetration-testing-601d257ee491)
 - [STEFLAN. Linux Privilege Escalation – Exploiting Misconfigured SSH Keys](https://steflan-security.com/linux-privilege-escalation-exploiting-misconfigured-ssh-keys/)
 - [Python tool SSH-audit](https://pypi.org/project/ssh-audit/)
 - [PenTestPartners. How to abuse SSH keys](https://www.pentestpartners.com/security-blog/how-to-abuse-ssh-keys/)
