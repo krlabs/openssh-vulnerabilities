@@ -71,3 +71,5 @@
 - [Python tool SSH-audit](https://pypi.org/project/ssh-audit/)
 - [PenTestPartners. How to abuse SSH keys](https://www.pentestpartners.com/security-blog/how-to-abuse-ssh-keys/)
 - [SecurityAffairs. Compromised SSH keys used to access popular GitHub repositories](https://securityaffairs.com/37459/cyber-crime/compromised-ssh-keys.html)
+- [Terrapin Attack](https://terrapin-attack.com)
+- [Mitigating the SSH Terrapin Attack](https://www.nsoftware.com/kb/articles/terrapin)
