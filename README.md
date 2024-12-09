@@ -57,5 +57,7 @@
 - [OffSec. Scanner SSH Auxiliary Modules](https://www.offsec.com/metasploit-unleashed/scanner-ssh-auxiliary-modules/)
 - [Detection of Username EnumerationAttack on SSH Protocol: MachineLearning Approach](https://dspace.nm-aist.ac.tz/bitstream/handle/20.500.12479/1399/JA_CoCSE_2021.pdf;jsessionid=21356BDA53DD0CFD819966944550E867?sequence=1)
 - [Youtube. SSH Enumeration.Assestment Methodologies](https://www.youtube.com/watch?v=W4EuJoi_Jsk)
+- [Youtube. Enumerate ATT- SSH](https://www.youtube.com/watch?v=lkCAMj6RvQc)
+- [Youtube. Brute Forcing SSH Using Wordlist](https://www.youtube.com/watch?v=ZUtyaR1-MOA)
 - [Virtue. SSH Weak MAC Algorithms Enabled](https://www.virtuesecurity.com/kb/ssh-weak-mac-algorithms-enabled/)
 - [INE Labs. SSH Recon Basic](https://www.coursesidekick.com/computer-science/3072971)
