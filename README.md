@@ -52,6 +52,7 @@
 - [INE Training Notes - by syselement. SSH enum](https://blog.syselement.com/ine/courses/ejpt/assessment-methodologies/3-enumeration/ssh-enum)
 - [HackTricks. Pentesting SSH/SFTP](https://book.hacktricks.xyz/network-services-pentesting/pentesting-ssh)
 - [SSH (Secure Shell) Pentesting](https://exploit-notes.hdks.org/exploit/network/protocol/ssh-pentesting/)
+- [VeryLaxyTech. Pentest SSH Port 22](https://www.verylazytech.com/network-pentesting/ssh-port-22)
 - [Less Secure SSH](https://www.less-secure.com/p/ssh.html)
 - [Youtube. Red Teaming | SSH User Enumeration](https://www.youtube.com/watch?v=NX8njFqywAg)
 - [Seclists.org. About OpenSSH "user enumeration" / CVE-2018-15473](https://seclists.org/oss-sec/2018/q3/170)
