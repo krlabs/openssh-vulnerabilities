@@ -73,3 +73,4 @@
 - [SecurityAffairs. Compromised SSH keys used to access popular GitHub repositories](https://securityaffairs.com/37459/cyber-crime/compromised-ssh-keys.html)
 - [Terrapin Attack](https://terrapin-attack.com)
 - [Mitigating the SSH Terrapin Attack](https://www.nsoftware.com/kb/articles/terrapin)
+- [Terrapin Vulnerability SCanner](https://github.com/RUB-NDS/Terrapin-Scanner)
