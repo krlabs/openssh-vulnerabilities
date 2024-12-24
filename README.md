@@ -78,3 +78,6 @@
 - [Terrapin Vulnerability SCanner](https://github.com/RUB-NDS/Terrapin-Scanner)
 - [OpenSSH Security Advisory: gcmrekey.adv](https://www.openssh.com/txt/gcmrekey.adv)
 - [vsosciety_. Exploring OpenSSH's Agent Forwarding RCE (CVE-2023-38408)](https://www.vicarius.io/vsociety/posts/exploring-opensshs-agent-forwarding-rce-cve-2023-38408)
+- [Auditing GitHub users’ SSH key quality](https://blog.benjojo.co.uk/post/auditing-github-users-keys)
+- [whoami.filippo.io](https://github.com/FiloSottile/whoami.filippo.io)
+- [База публичных ключей GitHub и SSH сервер, который знает о вас всё](https://shanginn.ru/github-public-keys/)
